@@ -19,7 +19,7 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Gabriel 昱明",
+  title: "Gabriel de Oliveira",
   logo_name: "Gabriel",
   nickname: " 昱明 ",
   subTitle:
