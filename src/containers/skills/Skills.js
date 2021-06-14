@@ -8,9 +8,9 @@ export default function Skills(props) {
   return (
     <div className="main" id="skills">
       <div className="skills-header-div">
-        <Fade bottom duration={2000} distance="20px">
+        <Fade bottom duration={2000} distance="10px">
           <h1 className="skills-header" style={{ color: theme.text }}>
-            What I Do?
+            What I do?
           </h1>
         </Fade>
       </div>
