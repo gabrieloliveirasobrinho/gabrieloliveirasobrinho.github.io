@@ -264,7 +264,7 @@ const certifications = {
       color_code: "#D83B0199",
     },
     {
-      title: "汉语水平考试 level 1 - cours",
+      title: "汉语水平考试 level 1 - course",
       subtitle: "- Pula Muralha",
       logo_path: "HSK.png",
       certificate_link:
